@@ -19,7 +19,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 32px;
+  gap: 0;
   margin-bottom: 22px;
 }
 
@@ -28,8 +28,8 @@ main {
 }
 
 .portrait {
-  width: 88px;
-  height: 112px;
+  width: 68px;
+  height: 86px;
   object-fit: cover;
   border: 1px solid #bbb;
 }
@@ -113,8 +113,8 @@ li {
   }
 
   .portrait {
-    width: 78px;
-    height: 98px;
+    width: 64px;
+    height: 80px;
     margin-top: 14px;
   }
 
